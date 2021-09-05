@@ -16,10 +16,6 @@ Update pip and install wheel:
 (venv)$ pip3 install --upgrade pip
 (venv)$ pip3 install wheel
 ```
-Install dependencies:
-```bash
-(venv)$ pip install -r requirements.txt
-```
 
 # Usage
 This framework requires an Excel Worksheet that contains a column of tickers labeled 
